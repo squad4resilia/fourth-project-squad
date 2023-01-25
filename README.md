@@ -1,12 +1,12 @@
 # 4° PROJETO EM GRUPO
 
-Escolhemos um conjunto de dados baseado da série Game Of Thrones. Elaboramos 5 perguntas que potencialmente seriam de interesse do usuário e, com base nas mesmas, passamos para o PowerBI, que irá abstrair as consultas SQL, resultando num gráfico Dashboard simples, facilitando a experiência do usuário final.
+´´´´Escolhemos um conjunto de dados baseado da série Game Of Thrones. Elaboramos 5 perguntas que potencialmente seriam de interesse do usuário e, com base nas mesmas, passamos para o PowerBI, que irá abstrair as consultas SQL, resultando num gráfico Dashboard simples, facilitando a experiência do usuário final.´´´
 
 ## ENTIDADES:
 
 - Characters
 - Episodes
-- Houses
+- Houses 
 
 ## PERGUNTAS:
 
