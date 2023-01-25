@@ -18,4 +18,4 @@ Escolhemos um conjunto de dados baseado na série Game of thrones. Elaboramos 5 
 
 ### 4 - Quais Personagens com mais aparições em 2016?
 
-### 5 - Quais todos os personagens das principais familias?
+### 5 - Quais os personagens das principais famílias?
